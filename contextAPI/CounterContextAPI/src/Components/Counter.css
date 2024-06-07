@@ -1,0 +1,18 @@
+button {
+    padding: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+}
+
+.Increment-button {
+    background-color: green;
+}
+
+.Decrement-button {
+    background-color: red;
+}
